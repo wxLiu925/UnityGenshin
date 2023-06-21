@@ -14,3 +14,6 @@ Whut大二Unity结课大作业
 动画下载链接: https://www.mixamo.com/#/
 
 原神模型下载链接: https://www.aplaybox.com/
+
+---
++ 删除 PlayerCamera 中的 Player Input Manager 组件
