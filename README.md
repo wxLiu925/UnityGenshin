@@ -1,15 +1,5 @@
 # UnityGenshin
 
-Unity结课大作业
-
-动作系统的实现主要是复刻了 Youtube 上的一个教程实现, 并在此基础上增加了场景/人物/音乐等。
-
-### Q
-为什么不用胡桃作为人物模型来做
-
-### A
-遇到了一些骨骼动画的问题没能解决
-
 ### URL
 动作系统教程链接: https://www.youtube.com/watch?v=kluTqsSUyN0
 
